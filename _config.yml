@@ -6,20 +6,19 @@
 # --- Required options --- #
 
 # Name of website
-title: We Blogg
+title: My Website
 
 # Your name to show in the footer
-author: Aditya Feat. Ashish
+author: Some Person
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me: "aboutme"
-  Readables:
-    - Short Stories: "https://beautifuljekyll.com"
-    - Poems: "https://www.markdowntutorial.com/"
-    - Bloggs: "https://"
-  Meet Ashish: "https://ashishjaiswal181.github.io/"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
@@ -40,16 +39,16 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "adityajaiswal181@gmail.com"
-  facebook: 
-  github: "ashishjaiswal181"
-  twitter: "Adityak02936786"
+  email: "someone@example.com"
+  facebook: deanattali
+  github: daattali
+  twitter: daattali
 #  reddit: yourname
-  linkedin: "aditya-kumar-a301091a0
+#  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-  instagram: "aadi_181"
+#  instagram: deanat78
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
@@ -64,7 +63,7 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: This website is a virtual proof that I write awesome.
+rss-description: This website is a virtual proof that I'm awesome
 
 # --- General options --- #
 
@@ -77,7 +76,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "AshishJaiswal181.Github.io/"
+url-pretty: "MyWebsite.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -95,7 +94,7 @@ feed_show_tags: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#69a6b1"
+navbar-col: "#EAEAEA"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
