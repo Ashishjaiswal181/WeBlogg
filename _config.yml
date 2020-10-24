@@ -14,7 +14,7 @@ author: Aditya Feat. Ashish
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  Meet Me: "aboutme"
   Readables:
     - Short Stories: "https://beautifuljekyll.com"
     - Poems: "https://www.markdowntutorial.com/"
