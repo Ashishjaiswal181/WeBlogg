@@ -32,7 +32,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: /assets/img/LogoWeBlogg.png
+title-img: /assets/img/weblogglogo.png
 
 
 # --- Footer social media links --- #
@@ -95,14 +95,14 @@ keywords: "We Blogg, Blogs, Aditya, Ashish, Creativity, Readables, Write, Poems,
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#fdc7d7"
+navbar-col: "#2286c4"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#212121"
 link-col: "#008AFF"
 hover-col: "#f0f7f8"
-footer-col: "#f4e74f"
+footer-col: "#04240c"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 
@@ -130,7 +130,7 @@ footer-link-col: "#404040"
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using Google Analytics
-google_analytics: "250347251"
+google_analytics: "G-VEFML7NJLB"
 
 # Google Tag Manager ID
 #gtm: ""
