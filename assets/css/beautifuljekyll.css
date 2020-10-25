@@ -175,7 +175,7 @@ img {
 
 .navbar-custom .navbar-nav .nav-item {
   text-transform: uppercase;
-  font-size: 0.8125rem;
+  font-size: 1rem;
   letter-spacing: 0.0625rem;
 }
 
@@ -190,7 +190,7 @@ img {
 .navbar-custom .navbar-brand,
 .navbar-custom .navbar-nav .nav-link {
   font-weight: 800;
-  color: {{ site.navbar-text-col | default: "#404040" }};
+  color: {{ site.navbar-text-col | default: "#1c1c1c" }};
 }
 
 .navbar-toggler {
@@ -261,7 +261,7 @@ img {
   text-decoration: none !important;
   border-width: 0 1px 1px 1px;
   font-weight: normal;
-  color: {{ site.navbar-text-col | default: "#404040" }};
+  color: {{ site.navbar-text-col | default: "#1c1c1c" }};
 }
 
 @media (min-width: 1200px) {
@@ -371,7 +371,7 @@ footer {
   padding: 1.875rem 0;
   border-top: 1px #EAEAEA solid;
   margin-top: 3.125rem;
-  font-size: 0.875rem;
+  font-size: 1rem;
   background-color: {{ site.footer-col | default: "#EAEAEA" }};
   {% if site.footer-img %}
     background-image: url({{ site.footer-img | relative_url }});
@@ -380,11 +380,11 @@ footer {
 }
 
 footer p.text-muted {
-  color: {{ site.footer-text-col | default: "#777777" }} !important;
+  color: {{ site.footer-text-col | default: "#1c1c1c" }} !important;
 }
 
 footer a {
-  color: {{ site.footer-link-col | default: "#404040" }};
+  color: {{ site.footer-link-col | default: "#0085A1" }};
 }
 
 footer .list-inline {
