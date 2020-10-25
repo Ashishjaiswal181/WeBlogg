@@ -14,11 +14,11 @@ author: Aditya Feat. Ashish
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Meet Me: "aboutme"
   Readables:
     - Short Stories: "https://beautifuljekyll.com"
     - Poems: "https://www.markdowntutorial.com/"
     - Bloggs: "https://www.markdowntutorial.com/"
+  Meet Aditya: "aboutme"
   Meet Ashish: "https://ashishjaiswal181.github.io/"
 
 # --- Logo --- #
@@ -32,7 +32,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: "/assets/img/weblogglogo.jpg"
+title-img: "/assets/img/avatar-icon.png"
 
 
 # --- Footer social media links --- #
@@ -102,9 +102,9 @@ page-col: "#FFFFFF"
 text-col: "#212121"
 link-col: "#008AFF"
 hover-col: "#f0f7f8"
-footer-col: "#313a40"
+footer-col: "#202529"
 footer-text-col: "#959595"
-footer-link-col: "#93eeff"
+footer-link-col: "#3b5998"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
