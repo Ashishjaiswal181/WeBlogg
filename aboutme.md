@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About me
+subtitle: Let me tell you my story!
 ---
 
 
@@ -16,5 +17,7 @@ Ignoring the years of "teenage Shenanigans" we are here in Bangalore - of all pl
  After the "Brief introduction" about who I am I must tell you how this blog came into being. One day I let my brother read some of the "things" that I had written and he liked it. And being a Computer and Software Engineer ( he forced me to write it ), he said that he would make me a blog. So nearly after one year since that "incident", we are finally on to it while the world remains consumed in eternal lethargy and widespread Corona Virus.
  
 Oh, and I am Aditya and... it was nice to meet you too.
+
+
 
 <a class="twitter-timeline" data-theme="light" href="https://twitter.com/Adityak02936786?ref_src=twsrc%5Etfw">Tweets by Aditya</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
