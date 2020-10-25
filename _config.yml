@@ -95,16 +95,16 @@ keywords: "We Blogg, Blogs, Aditya, Ashish, Creativity, Readables, Write, Poems,
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#3a98d3"
-navbar-text-col: "#404040"
+navbar-col: "#313a40"
+navbar-text-col: "#959595"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#212121"
 link-col: "#008AFF"
 hover-col: "#f0f7f8"
 footer-col: "#313a40"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
+footer-text-col: "#959595"
+footer-link-col: "#93eeff"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
