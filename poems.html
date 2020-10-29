@@ -8,7 +8,7 @@ title: Poems
 <div class="posts-list">
   {% for post in posts %}
   {% for tag in post.tags %}
-  {% if post.tags == Poem %}
+  {% if tag == Poem %}
   <article class="post-preview">
 
     {%- capture thumbnail -%}
