@@ -16,7 +16,7 @@ author: Aditya Feat. Ashish
 navbar-links:
   Readables:
     - Short Stories: "https://beautifuljekyll.com"
-    - Poems: "https://www.markdowntutorial.com/"
+    - Poems: "https://ashishjaiswal181.github.io/WeBlogg/poems/"
     - Bloggs: "https://www.markdowntutorial.com/"
   Meet Aditya: "aboutme"
   Meet Ashish: "https://ashishjaiswal181.github.io/"
@@ -130,7 +130,7 @@ footer-link-col: "#3b5998"
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using Google Analytics
-google_analytics: "250347251"
+google_analytics: "G-VEFML7NJLB"
 
 # Google Tag Manager ID
 #gtm: ""
