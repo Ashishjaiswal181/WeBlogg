@@ -16,7 +16,7 @@ author: Aditya Feat. Ashish
 navbar-links:
   Readables:
     - Short Stories: "https://beautifuljekyll.com"
-    - Poems: "https://ashishjaiswal181.github.io/WeBlogg/_layouts/poems.html/"
+    - Poems: "https://ashishjaiswal181.github.io/WeBlogg/_layouts/poems/"
     - Bloggs: "https://www.markdowntutorial.com/"
   Meet Aditya: "aboutme"
   Meet Ashish: "https://ashishjaiswal181.github.io/"
