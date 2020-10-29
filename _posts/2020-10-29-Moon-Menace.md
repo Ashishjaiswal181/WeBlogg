@@ -8,44 +8,44 @@ share-img:
 tags: [Poem, Dark night, Moon, Horror]
 ---
 
-Night syk is dark.
-Moon shines bright.
-I don't know where to go
-nobody's in sight.
+Night syk is dark.<br />
+Moon shines bright.<br />
+I don't know where to go<br />
+nobody's in sight.<br />
 
-I hear a howl
-it's vampires plight
-no hunt tonight, it seems
-'cuz there's nobody in sight.
+I hear a howl<br />
+it's vampires plight<br />
+no hunt tonight, it seems<br />
+'cuz there's nobody in sight.<br />
 
-I hear the growl
-now closer than ever,
-silver fur shining
-in this moonlit night.
+I hear the growl<br />
+now closer than ever,<br />
+silver fur shining<br />
+in this moonlit night.<br />
 
-The pack moves in closer
-I know I can't fight.
-I must run now
-but there's no escape in sight.
+The pack moves in closer<br />
+I know I can't fight.<br />
+I must run now<br />
+but there's no escape in sight.<br />
 
-Blood in my veins have dried
-and I need a fresh supply
-to survive what is to come
-in this bloody night.
+Blood in my veins have dried<br />
+and I need a fresh supply<br />
+to survive what is to come<br />
+in this bloody night.<br />
 
-The beast pounces on me
-pinning me to the ground
-its claws bore deep in my chest
-and jaw ready to bite.
+The beast pounces on me<br />
+pinning me to the ground<br />
+its claws bore deep in my chest<br />
+and jaw ready to bite.<br />
 
-The pack howls in unison
-and a gunshot it invites,
-snarling the beasts
-now retract in the night.
+The pack howls in unison<br />
+and a gunshot it invites,<br />
+snarling the beasts<br />
+now retract in the night.<br />
 
-I snigger and I smile
-for the sky is dark tonight,
-the moon shines bright
-and finally, I have my prey in sight!
+I snigger and I smile<br />
+for the sky is dark tonight,<br />
+the moon shines bright<br />
+and finally, I have my prey in sight!<br />
 
 
