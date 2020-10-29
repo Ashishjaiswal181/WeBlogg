@@ -1,6 +1,6 @@
 ---
 layout: page
-title: poems
+title: Poems
 ---
 
 {{ content }}
