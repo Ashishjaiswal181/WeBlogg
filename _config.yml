@@ -22,7 +22,7 @@ navbar-links:
   Meet Ashish: "https://ashishjaiswal181.github.io/"
 
 # --- Logo --- #
-
+logo: "/assets/img/favicon.ico"
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
 avatar: "/assets/img/avatar-icon.png"
@@ -130,7 +130,7 @@ footer-link-col: "#3b5998"
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using Google Analytics
-google_analytics: "G-VEFML7NJLB"
+google_analytics: G-VEFML7NJLB
 
 # Google Tag Manager ID
 #gtm: ""
