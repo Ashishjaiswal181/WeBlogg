@@ -3,7 +3,7 @@ layout: post
 title: Moon Menace
 subtitle: ~Aditya
 cover-img: /assets/img/Moonmenace.jpg
-thumbnail-img: /assets/img/Mm.jpg
+thumbnail-img: /assets/img/Sample.jpg
 share-img: 
 tags: [Poem, Dark night, Moon, Horror]
 ---
